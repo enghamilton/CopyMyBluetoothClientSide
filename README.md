@@ -1,0 +1,2 @@
+# CopyMyBluetoothClientSide
+speechToText works !!
